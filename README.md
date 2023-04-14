@@ -7,10 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Maroaune Boukhriss
+## Fidel Martin
 + This repository has all laravel exercise and extensions.
-## Demostration  
-+ http://maruanservicios.ml/
 ## Login details
 Thats details isn't for administration user its just for client.
 + Client user : user@example.com
